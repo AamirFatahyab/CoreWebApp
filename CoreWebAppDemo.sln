@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebAppDemo", "CoreWebAppDemo\CoreWebAppDemo.csproj", "{21C38724-75E7-4536-B47E-4D7ACB1DEE47}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "RGCoreWebAppDemo", "RGCoreWebAppDemo\RGCoreWebAppDemo.deployproj", "{ADB4A293-571D-45C9-A736-06B0BE239FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C38724-75E7-4536-B47E-4D7ACB1DEE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C38724-75E7-4536-B47E-4D7ACB1DEE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C38724-75E7-4536-B47E-4D7ACB1DEE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C38724-75E7-4536-B47E-4D7ACB1DEE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB4A293-571D-45C9-A736-06B0BE239FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB4A293-571D-45C9-A736-06B0BE239FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB4A293-571D-45C9-A736-06B0BE239FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB4A293-571D-45C9-A736-06B0BE239FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0A097D-9994-42E9-97EF-52A98485DA67}
+	EndGlobalSection
+EndGlobal
