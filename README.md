@@ -1,2 +1,2 @@
 # CoreWebApp
-CoreWebApp changes for Function App
+CoreWebApp changes for Function App changed again
